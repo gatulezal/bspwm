@@ -1,3 +1,5 @@
+## Ы
+
 ## Description
 
 *bspwm* is a tiling window manager that represents windows as the leaves of a full binary tree.
@@ -67,7 +69,7 @@ For example, let's consider the following scenario:
              2   3                      4   b                      5   c
              ^                          ^  / \                     ^  / \
                                           3   2                      b   4
-                                                                    / \ 
+                                                                    / \
                                                                    3   2
 
  +-----------------------+  +-----------------------+  +-----------------------+
@@ -80,7 +82,7 @@ For example, let's consider the following scenario:
  |           |           |  |           |     |     |  |           |  2  |     |
  +-----------------------+  +-----------------------+  +-----------------------+
 
-              X                         Y                          Z 
+              X                         Y                          Z
 ```
 
 In state *X*, the insertion point, *2* is in automatic mode.
@@ -125,7 +127,7 @@ For example, let's consider the following scenario:
 |           |           |  |           |           |  |           |           |
 +-----------------------+  +-----------------------+  +-----------------------+
 
-            X                          Y                          Z 
+            X                          Y                          Z
 ```
 
 In state *X*, the insertion point is *1*.
